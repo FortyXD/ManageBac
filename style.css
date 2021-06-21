@@ -23,7 +23,7 @@ body{
   display: flex;
   height: 6vh;
 
-  min-height: 1rem;
+  min-height: 2rem;
   font-family: 'Open Sans', sans-serif;
 }
 .coloum{
@@ -31,7 +31,7 @@ body{
   font-family: 'Ubuntu', sans-serif;
   height: 94vh;
   width: 20vh;
-  min-height: 2rem;
+  
   display: flex;
   flex-direction: column;
   margin-right: 3vh;  
