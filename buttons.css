@@ -1,0 +1,29 @@
+*{
+    --ManageBacDark:#293041;
+    --ManageBacMoreDarker:#1d222e;
+  
+    --topnav:#F0F0F0;
+    --ManegeBacBlue:#4B8FFA;
+    --maintext: #E0E0E0;
+    --bg: #C4C4C4;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+  }
+  .buttons{
+      
+      display: flex;
+  }
+  .buttons h4{
+    background: var(--ManegeBacBlue);
+    width: 20rem;
+      margin: 10px;
+      border-radius: 10px;
+      text-align: center;
+      height: 2rem;
+      align-items: center;
+      vertical-align: middle;
+      
+  }
