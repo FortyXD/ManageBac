@@ -99,7 +99,10 @@ header{
   font-family: 'Roboto', sans-serif;
   border-top-right-radius: 10px;
   border-top-left-radius: 10px;
+}
+header .container{
   padding: 10px;
+  margin-left: 10px;
 }
 .pdf{
   display: flex;
