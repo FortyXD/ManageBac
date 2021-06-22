@@ -26,7 +26,8 @@
       height: 2rem;
       align-items: center;
       vertical-align: middle;
-      
+      font-family: 'Roboto', sans-serif;
+
   }
   .buttons a{
     text-decoration: none;
